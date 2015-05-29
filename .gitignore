@@ -1,0 +1,36 @@
+# Basic auth password files
+.htpasswd
+
+# Sass
+.sass-cache
+*.scssc
+
+# Sublime Text
+sftp-config.json
+
+# WordPress
+wp-config.php
+
+# Ruby on Rails
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Jekyll
+_site
+
+# Node.js
+node_modules/
+
+# Logfiles and tempfiles
+*.log
+/tmp
+
+# Other unneeded files
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
